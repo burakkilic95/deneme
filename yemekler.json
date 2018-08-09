@@ -1,13 +1,13 @@
 {"yemekler":[
     	{ 
 	"yemek_id":1, 
-	"yemek_adi":"Yemek Adý 1", 
-	"yemekaciklama":"Tarifin Detaylarý 1"
-	"yemek_tur":"Tür 1"
-	"yemek_pisirme_suresi":"Doe"
-	"yemek_hazirlama_suresi":"Doe"
-	"yemek_kisi_sayisi":"Doe"
-	"yemek_resim":"Doe"
+	"yemek_adi":"MantarlÄ± Domates Ã‡orbasÄ±", 
+	"yemekaciklama":"Tarifin DetaylarÃ½ 1"
+	"yemek_tur":"Ã‡orbalar"
+	"yemek_pisirme_suresi":"20 dk"
+	"yemek_hazirlama_suresi":"10 dk"
+	"yemek_kisi_sayisi":"4-6"
+	"yemek_resim":"http://img.nefisyemektarifleri.net/2017/11/07/mantarli-domates-corbasi-500*333.jpg"
 	"yemek_malzemeler":"Doe"
 	},
 	{ 
